@@ -62,6 +62,10 @@
     <AndroidResource Include="Resources\mipmap-xhdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-xxhdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
+    <AndroidResource Include="Resources\drawable\ps_top_card_01.png" />
+    <AndroidResource Include="Resources\drawable\ps_top_card_02.png" />
+    <AndroidResource Include="Resources\drawable\ps_top_card_03.png" />
+    <AndroidResource Include="Resources\drawable\ps_top_card_04.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />
